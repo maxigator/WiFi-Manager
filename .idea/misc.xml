@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable-v24/rounded_background.xml" value="0.41203703703703703" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable-v24/rounded_background_selected.xml" value="0.315625" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable/ic_launcher_background.xml" value="0.315625" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable/ic_signal_strength_1.xml" value="0.315625" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable/ic_signal_strength_2.xml" value="0.315625" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable/ic_signal_strength_3.xml" value="0.315625" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/drawable/ic_signal_strength_4.xml" value="0.315625" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/layout/dialog_password.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/layout/item_wifi_network.xml" value="0.22" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/layout/rounded_background.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4557291666666667" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WIFiManager/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4557291666666667" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/WiFiManager/app/src/main/res/drawable-v24/rounded_background.xml" value="0.4083333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="WiFi_Manager.app" />
+      </set>
+    </option>
+  </component>
+</project>
