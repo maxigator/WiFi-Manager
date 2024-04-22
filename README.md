@@ -12,3 +12,10 @@ To install the app, clone this repository and import the project into Android St
 
 ```bash
 git clone https://github.com/yourusername/wifi-list-manager.git
+```
+
+## Usage
+Run the app on your Android device. The main screen will display a list of available WiFi networks. Tap on a network to connect.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
